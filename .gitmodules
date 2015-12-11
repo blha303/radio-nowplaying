@@ -1,0 +1,3 @@
+[submodule "npscripts"]
+	path = npscripts
+	url = https://github.com/blha303/npscripts
